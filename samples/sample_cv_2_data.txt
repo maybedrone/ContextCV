@@ -1,0 +1,37 @@
+Priya Nair
+GitHub | LinkedIn | priya.nair.ds@gmail.com | +91 9123456780
+
+SUMMARY
+Data-oriented Computer Science graduate with a strong foundation in machine learning, statistics, and data pipelines. Experienced in turning messy datasets into models and dashboards that inform decisions. Seeking a data scientist or ML engineer role.
+
+EXPERIENCE
+DataCrest Analytics (Jul 2025 - Present)
+Data Science Intern | Pune, India
+- Built churn-prediction models (XGBoost, logistic regression) on 500k+ customer records, achieving 0.86 ROC-AUC and informing a retention campaign.
+- Engineered reproducible data pipelines with pandas and Airflow, cutting weekly reporting time from 6 hours to 30 minutes.
+- Created interactive dashboards in Streamlit and Power BI for non-technical stakeholders.
+- Performed A/B test analysis with proper statistical significance testing to validate product changes.
+
+SKILLS
+Languages: Python, R, SQL
+ML/Data: scikit-learn, XGBoost, pandas, NumPy, Matplotlib, seaborn
+Tools: Airflow, Streamlit, Power BI, Jupyter, Git
+Concepts: Supervised/Unsupervised Learning, Feature Engineering, A/B Testing, Statistics
+
+PROJECTS
+Customer Segmentation Engine | GitHub (2025)
+Applied K-Means and hierarchical clustering on retail transaction data to identify five actionable customer segments, visualized with PCA and an interactive Streamlit dashboard.
+
+Movie Recommendation System | GitHub (2024)
+Built a collaborative-filtering recommender on the MovieLens dataset using matrix factorization; evaluated with RMSE and precision@k.
+
+EDUCATION
+2021-2025 B.Tech in Computer Science and Engineering, NIT Trichy
+
+CERTIFICATIONS
+- Machine Learning Specialization - Coursera (2024)
+- Google Data Analytics Certificate (2023)
+
+ACHIEVEMENTS
+- Kaggle Expert (top 5% in two competitions)
+- Published a data-analysis blog with 10k+ total reads

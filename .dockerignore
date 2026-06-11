@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+langenv/
+venv/
+.git/
+.gitignore
+*.txt
+!requirements.txt
+.ipynb_checkpoints/
+*.sqlite
+README.md

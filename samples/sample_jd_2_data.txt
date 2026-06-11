@@ -1,0 +1,26 @@
+Data Scientist (Junior) — PharmEasy
+
+About PharmEasy:
+PharmEasy is one of India's largest digital healthcare platforms, serving millions of patients with online medicine delivery, diagnostics, and teleconsultation. Our data team turns healthcare data into better outcomes for patients and a smarter business.
+
+What you'll do:
+- Build and validate predictive models (churn, demand forecasting, fraud detection)
+- Work with large datasets using pandas, SQL, and distributed tools
+- Design and analyze A/B experiments to measure product impact
+- Build dashboards and communicate findings to non-technical stakeholders
+- Partner with product and engineering to ship data-driven features
+
+What we're looking for:
+- Solid foundation in machine learning and statistics
+- Proficiency in Python (pandas, scikit-learn) and SQL
+- Experience with the end-to-end modeling workflow: EDA, feature engineering, evaluation
+- Ability to communicate results clearly to non-technical audiences
+- Bonus: experience with experimentation/A/B testing or data pipeline tools
+
+Why join us:
+- Work on problems that directly impact patient health
+- Access to rich, large-scale healthcare datasets
+- Collaborative, learning-focused data culture
+
+Location: Mumbai (Hybrid)
+Type: Full-time

@@ -1,0 +1,37 @@
+PayU Campus Recruitment Drive - B.Tech CSE/IT (Batch 2026)
+Internship-to-full-time hiring program.
+
+About the Opportunity:
+PayU, a leading fintech company, is hiring interns with the potential to convert to full-time employees based on performance. Students will gain hands-on experience and work on real-world projects in a dynamic environment.
+
+What will you do:
+- Assist in developing and optimizing our payment platform
+- Collaborate with experienced engineers on software development
+- Engage in agile team sprints and contribute your ideas
+- Work with the latest tech stacks
+
+What we are looking for:
+- Specialization in Computer Science & Information Technology
+- Passionate about fintech and technology-driven solutions
+- Internship/Projects in Backend is an added advantage
+- Strong coding skills and problem solving abilities
+- Team oriented with excellent communication skills
+
+Why join PayU:
+- Learn from industry leading fintech experts
+- Contribute to projects that reach millions of users
+- Enhance your skills with real world engineering challenges
+- Opportunity for full time offer upon successful completion
+
+Internship Details:
+Duration: 6 Months
+Location: Gurgaon/Noida
+Mode: Hybrid (3 days office, 2 days home)
+Stipend: INR 30,000 per month
+FTE package after 6 months: 7 LPA (performance-based conversion)
+Revised FTE Comp for FY28: 12 LPA
+
+Interview Process:
+- Online Assessment (HackerEarth)
+- Technical Round 1
+- Technical Hiring Manager Round

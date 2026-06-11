@@ -1,0 +1,38 @@
+Aarav Mehta
+GitHub | LinkedIn | aarav.mehta.dev@gmail.com | +91 9876543210
+
+SUMMARY
+Backend-focused Computer Science graduate with hands-on experience building REST APIs, working with relational databases, and deploying containerized services. Comfortable across the stack but happiest writing clean, well-tested server-side code. Looking for a backend or full-stack engineering role.
+
+EXPERIENCE
+Brightwave Solutions (Jun 2025 - Present)
+Backend Engineering Intern | Bengaluru, India
+- Built and maintained REST APIs in Python (FastAPI) serving 20k+ daily requests, improving p95 latency by 30% through query optimization and caching.
+- Designed PostgreSQL schemas and wrote complex queries with proper indexing for a multi-tenant SaaS product.
+- Containerized three microservices with Docker and set up CI pipelines using GitHub Actions for automated testing and deployment.
+- Wrote unit and integration tests with pytest, raising service test coverage from 45% to 80%.
+
+SKILLS
+Languages: Python, Java, SQL, JavaScript
+Backend: FastAPI, Flask, REST API design, Redis caching
+Databases: PostgreSQL, MySQL, MongoDB
+DevOps: Docker, GitHub Actions, basic Kubernetes, AWS EC2/S3
+Concepts: Data Structures & Algorithms, OOP, System Design basics, microservices
+
+PROJECTS
+URL Shortener Service | GitHub (2025)
+Built a scalable URL shortener with FastAPI and PostgreSQL, featuring rate limiting, analytics tracking, and Redis caching. Deployed on AWS with Docker. Handles custom aliases and expiry.
+
+Real-Time Chat Backend | GitHub (2024)
+Designed a WebSocket-based chat server in Python supporting rooms, presence, and message history persisted to PostgreSQL. Load-tested to 1,000 concurrent connections.
+
+EDUCATION
+2021-2025 B.Tech in Computer Science and Engineering, VIT Vellore
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2024)
+- Docker Fundamentals - Udemy (2024)
+
+ACHIEVEMENTS
+- Solved 300+ problems on LeetCode (Knight badge)
+- Winner, college-level 24-hour hackathon (backend track)

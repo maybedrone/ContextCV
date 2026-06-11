@@ -1,0 +1,48 @@
+Droun Trehan
+GitHub | LinkedIn | LeetCode | contactdrone2103@gmail.com | +91 8750115549
+
+SUMMARY
+Computer Science undergraduate specializing in Python, SQL, and Natural Language Processing (NLP). Passionate about building practical, scalable applications with strong foundations in data structures, databases, and software engineering principles. Seeking opportunities to apply my skills in real-world projects and teams.
+
+EXPERIENCE
+Ksolves India Limited (Mar 2026 - Present)
+Software Development Intern | Delhi/Noida, India
+- Gained hands-on exposure to ERP systems and the Odoo framework, understanding core business modules, module structure, and the ORM layer for database interactions.
+- Worked with PostgreSQL for data modelling and querying; implemented scheduled actions using cron jobs for task automation within the Odoo environment.
+- Wrote unit tests for business logic using Odoo's test framework; debugged model-level issues across the codebase.
+- Used Docker for containerised development and collaborated using Git in a team-based workflow.
+
+SKILLS
+Languages: Python, C++, SQL
+Frameworks & Libs: Pandas, NumPy, NLTK, spaCy, LangChain, FastAPI, Streamlit
+Databases: MySQL, PostgreSQL, SQLite3, ChromaDB
+Tools & Platforms: Git, Docker, VS Code, PyCharm, Jupyter Notebook
+CS Concepts: Data Structures & Algorithms, OOP, DBMS, NLP, RAG
+Soft Skills: Strategic Thinking (Chess.com 1900 - Top 0.6% worldwide), Team Player
+
+PROJECTS
+DocuMind - RAG Application | GitHub | Live (2026)
+Built an end-to-end Retrieval-Augmented Generation pipeline using LangChain, enabling users to upload any PDF and ask questions grounded strictly in document content. Implemented PyPDFLoader ingestion, RecursiveCharacterTextSplitter chunking, and HuggingFace sentence-transformer embeddings (all-MiniLM-L6-v2). Integrated ChromaDB vector store with cosine similarity retrieval; chained retriever, prompt, and DeepSeek-R1 via LCEL (RunnableParallel / RunnablePassthrough). Deployed on Streamlit Community Cloud with persistent chat history and source page attribution.
+
+Quora Duplicate Question Detection | GitHub (2025)
+Built an NLP pipeline to detect duplicate question pairs from the Quora dataset (400k+ pairs). Performed exploratory data analysis, engineered features using TF-IDF vectorization, and compared Random Forest vs XGBoost as baseline classifiers. Identified key limitations of static word representations, motivating the use of contextual embeddings.
+
+College Query Chatbot | GitHub (2025)
+Built an NLP-powered chatbot using Python (NLTK, spaCy) to handle FAQs about admissions, courses, and schedules. Integrated rule-based logic to process and respond to user queries.
+
+EDUCATION
+2022-2026 B.Tech in Computer Science and Engineering, Galgotias University, Greater Noida
+2020-2021 Class XII, G.S.B.V Krishna Nagar, Delhi (CBSE)
+2018-2019 Class X, Salwan Boys School, Delhi (CBSE)
+
+CERTIFICATIONS
+- The Ultimate MySQL Bootcamp - Udemy (2024)
+- NPTEL: Software Engineering (2024)
+- Google AI/ML Crash Course - Google (2025)
+- NLP with Python - Jose Portilla, Udemy (2025)
+- Data Structures & Algorithms - Abdul Bari (2024)
+
+ACHIEVEMENTS
+- Solved 100+ coding problems on LeetCode
+- Participated in team coding events and hackathons
+- Active contributor in college-level coding discussions and forums

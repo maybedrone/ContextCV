@@ -1,0 +1,26 @@
+Backend Engineer (Entry Level) — Shiprocket
+
+About Shiprocket:
+Shiprocket is India's leading eCommerce shipping and logistics platform, powering shipments for over 250,000 sellers. We're building the infrastructure that moves millions of packages, and we're looking for backend engineers to help us scale.
+
+What you'll do:
+- Design, build, and maintain backend services and REST APIs that power our shipping platform
+- Work with PostgreSQL and Redis to build performant, reliable data layers
+- Collaborate with frontend and product teams in an agile environment
+- Write clean, well-tested code and participate in code reviews
+- Help containerize and deploy services using Docker
+
+What we're looking for:
+- Strong programming fundamentals in Python (or a similar backend language)
+- Experience building REST APIs and working with relational databases
+- Understanding of data structures, algorithms, and basic system design
+- Familiarity with Docker and version control (Git)
+- Bonus: exposure to caching (Redis), cloud platforms (AWS), or CI/CD
+
+Why join us:
+- Work on systems that operate at real scale
+- Learn from senior engineers in a fast-moving environment
+- Competitive compensation and growth opportunities
+
+Location: Gurgaon (Hybrid)
+Type: Full-time

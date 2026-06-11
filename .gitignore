@@ -1,0 +1,28 @@
+# Secrets — NEVER commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+venv/
+env/
+langenv/
+
+# LangGraph / app artifacts
+*.sqlite
+checkpoints.sqlite
+research_full.txt
+writer_prompt.txt
+analyzer_prompt.txt
+cv_tailored.txt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
