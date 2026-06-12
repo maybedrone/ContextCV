@@ -6,6 +6,17 @@ ContextCV takes a job description and your CV, researches the hiring company on 
 
 **Live demo:** [contextcv.streamlit.app](https://contextcv.streamlit.app) · Built with LangGraph, Groq, and Streamlit.
 
+## Demo
+
+**1. Provide a job description and your CV**
+![Input screen](assets/01-input.png)
+
+**2. Review the research and analysis, then approve**
+![Review screen](assets/02-review.png)
+
+**3. Get your tailored CV**
+![Tailored output](assets/03-output.png)
+
 ---
 
 ## What it does
