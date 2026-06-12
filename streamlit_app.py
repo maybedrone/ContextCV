@@ -10,10 +10,30 @@ from pypdf import PdfReader
 from docx import Document
 
 from src.graph import app
+from ui import inject_css
 
-st.set_page_config(page_title="Job Application Assistant", page_icon="📄", layout="wide")
-st.title("📄 Job Application Assistant")
-st.caption("Multi-agent CV tailoring with company research and human review.")
+st.set_page_config(page_title="ContextCV", page_icon="📄", layout="wide")
+inject_css()
+st.title("📄 ContextCV")
+st.caption("Tailor your CV to any job — with company research and human review.")
+
+with st.expander("How it works"):
+    st.markdown(
+        """
+        **ContextCV** coordinates a small team of AI agents through a supervisor:
+
+        1. **Research** — a research agent searches the web to understand the target
+           company: its business, products, tech stack, and culture.
+        2. **Analyze** — an analyst agent compares your CV against the job description,
+           identifying strong matches, gaps, and points worth emphasizing.
+        3. **Review** — the workflow pauses for you. Read the research and analysis,
+           then approve before anything is written.
+        4. **Write** — a writer agent produces a tailored CV, downloadable as
+           `.txt` or `.docx`.
+
+        Built with **LangGraph** for multi-agent orchestration and human-in-the-loop control.
+        """
+    )
 
 MIN_CHARS = 100
 

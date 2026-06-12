@@ -1,0 +1,72 @@
+/* ContextCV — warm, deeper beige & brown theme */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', sans-serif;
+    color: #332B1F;
+}
+
+.block-container {
+    padding-top: 3rem;
+    max-width: 880px;
+}
+
+/* Headings — warm serif, deep espresso */
+h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: #4A3826;
+}
+
+h2, h3 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    color: #5A4632;
+}
+
+[data-testid="stCaptionContainer"] {
+    color: #7D6B52;
+    font-style: italic;
+}
+
+/* Primary button — rich walnut */
+.stButton button[kind="primary"] {
+    background: #7A5C3A;
+    color: #F0E9DC;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    padding: 0.5rem 1.5rem;
+    transition: background 0.15s ease;
+}
+.stButton button[kind="primary"]:hover {
+    background: #5F462B;
+    color: #FFFFFF;
+}
+
+/* Secondary buttons — outlined tan */
+.stButton button {
+    border-radius: 8px;
+    border: 1px solid #A38F70;
+}
+
+/* Text areas — warm parchment, slightly darker */
+.stTextArea textarea {
+    border-radius: 8px;
+    border: 1px solid #A38F70;
+    background-color: #D8CBB4;
+    color: #332B1F;
+}
+
+/* Expanders */
+.streamlit-expanderHeader {
+    border-radius: 8px;
+    font-weight: 500;
+    background-color: #D2C4AC;
+}
+
+[data-testid="stNotification"] {
+    border-radius: 8px;
+}
