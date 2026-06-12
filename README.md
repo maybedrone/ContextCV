@@ -4,7 +4,18 @@
 
 ContextCV takes a job description and your CV, researches the hiring company on the web, analyzes how your background maps to the role, and produces a tailored CV you can download as `.txt` or `.docx`. A human approval gate sits between analysis and final writing, so you stay in control.
 
-**Live demo:** _coming soon_ · Built with LangGraph, Groq, and Streamlit.
+**Live demo:** [contextcv.streamlit.app](https://contextcv.streamlit.app) · Built with LangGraph, Groq, and Streamlit.
+
+## Demo
+
+**1. Provide a job description and your CV**
+![Input screen](assets/01-input.png)
+
+**2. Review the research and analysis, then approve**
+![Review screen](assets/02-review.png)
+
+**3. Get your tailored CV**
+![Tailored output](assets/03-output.png)
 
 ---
 
